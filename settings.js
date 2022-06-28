@@ -31,7 +31,7 @@ global.ownername = '𝗠𝗥.𝗗𝗨𝗟𝗔😼🛠️⚙' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.btnurl = '🙂🔥https://chat.whatsapp.com/HyjHSYFImAk9g6r7s69W5x
 
 global.region = 'India, South India, Kerala' //Country Region
 
