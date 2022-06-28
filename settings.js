@@ -20,14 +20,14 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is 𝗠𝗥.𝗗𝗨𝗟𝗔😼🛠️⚙
+My Creator is 𝗗𝗨𝗟𝗔😼💕🖇️` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94771018177'] //Owner number in aive msg
+global.premium = ['+94771018177'] //Owner Number info
+global.ownernomer = '+94771018177' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+global.ownername = '𝗠𝗥.𝗗𝗨𝗟𝗔😼🛠️⚙' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
@@ -35,14 +35,14 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬𝗠𝗥.𝗗𝗨𝗟𝗔😼🛠️⚙࿐' //Bot Pacage Name
+global.author = '😎𝗠𝗥.𝗗𝗨𝗟𝗔😼💕🖇️❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://www.instagram.com/invites/contact/?i=1ehqih6zv4kxv&utm_content=2b60sen' //Youtube!https://youtu.be/T78MAKXFisE
 global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
